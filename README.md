@@ -24,3 +24,22 @@ Helios is a powerful framework for developing smart contracts on the Cardano blo
 
 Helios makes NFT minting and management efficient and effective, making it the ideal choice for developers looking to harness Cardano’s potential.
 
+# Must Access Repositories
+
+In minting NFTs there are some repositories examples that one has to access to understand the basics of minting NFT with Helios.
+
+### How to access Helios Examples 
+
+1. Open your web browser and navigate to the Helios Examples GitHub Repository.
+   
+NOTE:GitHub is a platform for hosting and sharing code, and this repository contains sample code and examples for Helios smart contracts.
+
+2. Clone the Repository Locally
+   
+To work with the examples on your local machine:
+
+a. Install Git: If you don’t have Git installed, download and install it from git-scm.com.
+b. Open Terminal or Command Prompt: Run the following command:
+git clone https://github.com/lley154/helios-examples.git
+
+
