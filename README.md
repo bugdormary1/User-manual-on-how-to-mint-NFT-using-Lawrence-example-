@@ -32,14 +32,30 @@ In minting NFTs there are some repositories examples that one has to access to u
 
 1. Open your web browser and navigate to the Helios Examples GitHub Repository.
    
-NOTE:GitHub is a platform for hosting and sharing code, and this repository contains sample code and examples for Helios smart contracts.
+NOTE: GitHub is a platform for hosting and sharing code, and this repository contains sample code and examples for Helios smart contracts.
 
 2. Clone the Repository Locally
    
 To work with the examples on your local machine:
 
 a. Install Git: If you don’t have Git installed, download and install it from git-scm.com.
-b. Open Terminal or Command Prompt: Run the following command:
-git clone https://github.com/lley154/helios-examples.git
 
+b. Open Terminal or Command Prompt: Run the following command:git clone https://github.com/lley154/helios-examples.git
 
+3. Navigate to the Repository Folder
+   
+After cloning, change your directory to the repository folder: cd helios-examples
+
+### How to Access NFT Examples 
+
+1. Find the NFT Example Folder
+   
+Look for a folder named nft. This folder contains files related to minting an NFT on Cardano using Helios. To switch to this directory, open your terminal and run the following command: cd nft
+
+Inside the folder, you will find Helios script files (.helios or .hs) that demonstrate the logic for NFT minting.
+
+2. Open the Project in Visual Studio Code
+   
+For easier viewing and editing, open the mint-nft folder in Visual Studio Code. In the terminal, run the following command: code .
+
+This will open the folder in Visual Studio Code for easier file browsing and modifications.
